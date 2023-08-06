@@ -77,4 +77,4 @@ git push origin feature/your-feature
 
 ## Credits
 
-This project was created by Aashutosh Mishra. If you find this project useful or have any suggestions for improvements, please feel free to reach out.
+This project was created by Aashutosh Mishra and [Nandini Maheshwari](https://github.com/Maheshwari-Nandini). If you find this project useful or have any suggestions for improvements, please feel free to reach out.
