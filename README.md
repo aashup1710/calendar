@@ -2,7 +2,8 @@
 
 This project is a simple web-based calendar application with an integrated event planner. The application is built using HTML, CSS, and JavaScript, and it allows users to view and manage their events conveniently.
 
-![image](https://github.com/aashup1710/calendar/assets/72152262/f75b8553-afeb-44e9-8dc5-ce78438eb039)
+![Calendar](https://github.com/aashup1710/calendar/assets/72152262/45ce4060-fe6d-4c01-be3d-558890f42cb3)
+
 
 ## Features
 
